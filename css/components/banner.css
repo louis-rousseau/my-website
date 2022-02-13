@@ -1,0 +1,83 @@
+.banner {
+	background-image: linear-gradient(-215deg, rgba(0, 0, 0, 0.9) 10%, rgba(0, 0, 0, 0.2) 80%), url(../../images/banner.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	text-align: left;
+	margin-bottom: 20px;
+}
+
+.banner h1 {
+	font-size: 50px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 100px;
+}
+
+.banner-red {
+	background-image: linear-gradient(-215deg, rgba(0, 0, 0, 0.9) 10%, rgba(0, 0, 0, 0.2) 80%), url(../../images/location1.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	text-align: left;
+	margin-bottom: 20px;
+}
+
+.banner-red h1 {
+	font-size: 50px;
+}
+
+.banner-red h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 100px;
+}
+
+.banner-blue {
+	background-image: linear-gradient(-215deg, rgba(0, 0, 0, 0.9) 10%, rgba(0, 0, 0, 0.2) 80%), url(../../images/location3.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	text-align: left;
+	margin-bottom: 20px;
+}
+
+.banner-blue h1 {
+	font-size: 50px;
+}
+
+.banner-blue h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 100px;
+}
+
+.banner-green {
+	background-image: linear-gradient(-215deg, rgba(0, 0, 0, 0.9) 10%, rgba(0, 0, 0, 0.2) 80%), url(../../images/location2.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	text-align: left;
+	margin-bottom: 20px;
+}
+
+.banner-gren h1 {
+	font-size: 50px;
+}
+
+.banner-green h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 100px;
+}
